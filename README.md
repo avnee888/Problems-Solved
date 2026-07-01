@@ -14,6 +14,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/avnee888/Problems-Solved/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/avnee888/Problems-Solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/avnee888/Problems-Solved/tree/master/0733-flood-fill) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/avnee888/Problems-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## String
 |  |
 | ------- |

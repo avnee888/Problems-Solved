@@ -22,6 +22,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0079-word-search](https://github.com/avnee888/Problems-Solved/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/avnee888/Problems-Solved/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Backtracking
 |  |
@@ -68,4 +69,12 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/avnee888/Problems-Solved/tree/master/0357-count-numbers-with-unique-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->

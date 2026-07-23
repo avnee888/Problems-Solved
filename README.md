@@ -20,6 +20,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0198-house-robber](https://github.com/avnee888/Problems-Solved/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/avnee888/Problems-Solved/tree/master/0200-number-of-islands) |
 | [0322-coin-change](https://github.com/avnee888/Problems-Solved/tree/master/0322-coin-change) |
+| [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/avnee888/Problems-Solved/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/avnee888/Problems-Solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/avnee888/Problems-Solved/tree/master/0733-flood-fill) |
@@ -88,11 +89,13 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
+| [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avnee888/Problems-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/avnee888/Problems-Solved/tree/master/0042-trapping-rain-water) |
+| [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 ## Stack
 |  |
 | ------- |
@@ -105,4 +108,8 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/avnee888/Problems-Solved/tree/master/0070-climbing-stairs) |
+## Greedy
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->

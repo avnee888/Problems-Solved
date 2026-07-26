@@ -15,6 +15,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avnee888/Problems-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/avnee888/Problems-Solved/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/avnee888/Problems-Solved/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/avnee888/Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/avnee888/Problems-Solved/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/avnee888/Problems-Solved/tree/master/0079-word-search) |
@@ -38,6 +39,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/avnee888/Problems-Solved/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/avnee888/Problems-Solved/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/avnee888/Problems-Solved/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/avnee888/Problems-Solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/avnee888/Problems-Solved/tree/master/0090-subsets-ii) |

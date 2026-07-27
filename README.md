@@ -33,6 +33,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- |
 | [0072-edit-distance](https://github.com/avnee888/Problems-Solved/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/avnee888/Problems-Solved/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/avnee888/Problems-Solved/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/avnee888/Problems-Solved/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Backtracking
@@ -43,6 +44,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0046-permutations](https://github.com/avnee888/Problems-Solved/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/avnee888/Problems-Solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/avnee888/Problems-Solved/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/avnee888/Problems-Solved/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/avnee888/Problems-Solved/tree/master/0357-count-numbers-with-unique-digits) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/avnee888/Problems-Solved/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Depth-First Search
@@ -86,6 +88,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0042-trapping-rain-water](https://github.com/avnee888/Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/avnee888/Problems-Solved/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/avnee888/Problems-Solved/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/avnee888/Problems-Solved/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/avnee888/Problems-Solved/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/avnee888/Problems-Solved/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/avnee888/Problems-Solved/tree/master/0357-count-numbers-with-unique-digits) |

@@ -37,6 +37,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0131-palindrome-partitioning](https://github.com/avnee888/Problems-Solved/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/avnee888/Problems-Solved/tree/master/0988-smallest-string-starting-from-leaf) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/avnee888/Problems-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/avnee888/Problems-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -133,4 +135,8 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Counting Sort
+|  |
+| ------- |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/avnee888/Problems-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 <!---LeetCode Topics End-->

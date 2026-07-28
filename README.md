@@ -7,6 +7,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/avnee888/Problems-Solved/tree/master/0009-palindrome-number) |
+| [0060-permutation-sequence](https://github.com/avnee888/Problems-Solved/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/avnee888/Problems-Solved/tree/master/0070-climbing-stairs) |
 | [0357-count-numbers-with-unique-digits](https://github.com/avnee888/Problems-Solved/tree/master/0357-count-numbers-with-unique-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/avnee888/Problems-Solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -139,4 +140,8 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/avnee888/Problems-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/avnee888/Problems-Solved/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->

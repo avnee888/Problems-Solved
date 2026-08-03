@@ -9,6 +9,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/avnee888/Problems-Solved/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/avnee888/Problems-Solved/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/avnee888/Problems-Solved/tree/master/0070-climbing-stairs) |
+| [0279-perfect-squares](https://github.com/avnee888/Problems-Solved/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/avnee888/Problems-Solved/tree/master/0357-count-numbers-with-unique-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/avnee888/Problems-Solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -72,6 +73,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/avnee888/Problems-Solved/tree/master/0200-number-of-islands) |
+| [0279-perfect-squares](https://github.com/avnee888/Problems-Solved/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/avnee888/Problems-Solved/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/avnee888/Problems-Solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/avnee888/Problems-Solved/tree/master/0733-flood-fill) |
@@ -96,6 +98,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/avnee888/Problems-Solved/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/avnee888/Problems-Solved/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/avnee888/Problems-Solved/tree/master/0198-house-robber) |
+| [0279-perfect-squares](https://github.com/avnee888/Problems-Solved/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/avnee888/Problems-Solved/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/avnee888/Problems-Solved/tree/master/0357-count-numbers-with-unique-digits) |
 | [0931-minimum-falling-path-sum](https://github.com/avnee888/Problems-Solved/tree/master/0931-minimum-falling-path-sum) |

@@ -3,8 +3,9 @@ class Solution {
     public int numSquares(int n) {
       ArrayList<Integer> sq=new ArrayList<>();
       for(int i=1;i<n;i++){
-        if((i*i)<=n)
+        if((i*i)<=n){
         sq.add(i*i);
+        }else{ break; }
       } 
        dp=new int[n+1];
        Arrays.fill(dp,-1);

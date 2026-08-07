@@ -9,6 +9,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/avnee888/Problems-Solved/tree/master/0009-palindrome-number) |
 | [0060-permutation-sequence](https://github.com/avnee888/Problems-Solved/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/avnee888/Problems-Solved/tree/master/0070-climbing-stairs) |
+| [0204-count-primes](https://github.com/avnee888/Problems-Solved/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/avnee888/Problems-Solved/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/avnee888/Problems-Solved/tree/master/0357-count-numbers-with-unique-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/avnee888/Problems-Solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -24,6 +25,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/avnee888/Problems-Solved/tree/master/0090-subsets-ii) |
 | [0198-house-robber](https://github.com/avnee888/Problems-Solved/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/avnee888/Problems-Solved/tree/master/0200-number-of-islands) |
+| [0204-count-primes](https://github.com/avnee888/Problems-Solved/tree/master/0204-count-primes) |
 | [0287-find-the-duplicate-number](https://github.com/avnee888/Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/avnee888/Problems-Solved/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
@@ -186,4 +188,24 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avnee888/Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/avnee888/Problems-Solved/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/avnee888/Problems-Solved/tree/master/0204-count-primes) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/avnee888/Problems-Solved/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/avnee888/Problems-Solved/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/avnee888/Problems-Solved/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->

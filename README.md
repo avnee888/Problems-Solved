@@ -13,6 +13,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/avnee888/Problems-Solved/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/avnee888/Problems-Solved/tree/master/0357-count-numbers-with-unique-digits) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/avnee888/Problems-Solved/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/avnee888/Problems-Solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -39,6 +40,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/avnee888/Problems-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/avnee888/Problems-Solved/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/avnee888/Problems-Solved/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -224,4 +226,8 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/avnee888/Problems-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
+## Simulation
+|  |
+| ------- |
+| [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/avnee888/Problems-Solved/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 <!---LeetCode Topics End-->

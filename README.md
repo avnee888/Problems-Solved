@@ -25,6 +25,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0046-permutations](https://github.com/avnee888/Problems-Solved/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/avnee888/Problems-Solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/avnee888/Problems-Solved/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/avnee888/Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/avnee888/Problems-Solved/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/avnee888/Problems-Solved/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/avnee888/Problems-Solved/tree/master/0200-number-of-islands) |
@@ -94,6 +95,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/avnee888/Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/avnee888/Problems-Solved/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/avnee888/Problems-Solved/tree/master/0695-max-area-of-island) |
 ## Tree
@@ -121,6 +123,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avnee888/Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/avnee888/Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/avnee888/Problems-Solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |

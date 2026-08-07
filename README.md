@@ -32,6 +32,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/avnee888/Problems-Solved/tree/master/0485-max-consecutive-ones) |
 | [0695-max-area-of-island](https://github.com/avnee888/Problems-Solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/avnee888/Problems-Solved/tree/master/0733-flood-fill) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/avnee888/Problems-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0931-minimum-falling-path-sum](https://github.com/avnee888/Problems-Solved/tree/master/0931-minimum-falling-path-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/avnee888/Problems-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -176,6 +177,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/avnee888/Problems-Solved/tree/master/0287-find-the-duplicate-number) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/avnee888/Problems-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Pigeonhole Principle
 |  |
 | ------- |
@@ -208,4 +210,8 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/avnee888/Problems-Solved/tree/master/0204-count-primes) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/avnee888/Problems-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->

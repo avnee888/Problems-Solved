@@ -37,6 +37,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/avnee888/Problems-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/avnee888/Problems-Solved/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
+| [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -113,6 +114,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avnee888/Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
+| [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
 | ------- |
@@ -121,6 +123,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/avnee888/Problems-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |

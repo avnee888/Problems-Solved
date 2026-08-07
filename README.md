@@ -37,6 +37,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/avnee888/Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/avnee888/Problems-Solved/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/avnee888/Problems-Solved/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/avnee888/Problems-Solved/tree/master/0131-palindrome-partitioning) |
@@ -107,6 +108,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/avnee888/Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -180,4 +182,8 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/avnee888/Problems-Solved/tree/master/0287-find-the-duplicate-number) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/avnee888/Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->

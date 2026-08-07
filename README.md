@@ -12,6 +12,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0204-count-primes](https://github.com/avnee888/Problems-Solved/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/avnee888/Problems-Solved/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/avnee888/Problems-Solved/tree/master/0357-count-numbers-with-unique-digits) |
+| [0628-maximum-product-of-three-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/avnee888/Problems-Solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -30,6 +31,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0322-coin-change](https://github.com/avnee888/Problems-Solved/tree/master/0322-coin-change) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/avnee888/Problems-Solved/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0695-max-area-of-island](https://github.com/avnee888/Problems-Solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/avnee888/Problems-Solved/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/avnee888/Problems-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -124,6 +126,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0147-insertion-sort-list](https://github.com/avnee888/Problems-Solved/tree/master/0147-insertion-sort-list) |
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
+| [0628-maximum-product-of-three-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/avnee888/Problems-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |

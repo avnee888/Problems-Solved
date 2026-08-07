@@ -44,6 +44,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/avnee888/Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0072-edit-distance](https://github.com/avnee888/Problems-Solved/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/avnee888/Problems-Solved/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/avnee888/Problems-Solved/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/avnee888/Problems-Solved/tree/master/0131-palindrome-partitioning) |
 | [0205-isomorphic-strings](https://github.com/avnee888/Problems-Solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
@@ -131,6 +132,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avnee888/Problems-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/avnee888/Problems-Solved/tree/master/0042-trapping-rain-water) |
+| [0125-valid-palindrome](https://github.com/avnee888/Problems-Solved/tree/master/0125-valid-palindrome) |
 | [0287-find-the-duplicate-number](https://github.com/avnee888/Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 ## Stack

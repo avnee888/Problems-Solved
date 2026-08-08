@@ -38,6 +38,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/avnee888/Problems-Solved/tree/master/0485-max-consecutive-ones) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/avnee888/Problems-Solved/tree/master/0645-set-mismatch) |
 | [0695-max-area-of-island](https://github.com/avnee888/Problems-Solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/avnee888/Problems-Solved/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/avnee888/Problems-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -133,6 +134,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/avnee888/Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/avnee888/Problems-Solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
+| [0645-set-mismatch](https://github.com/avnee888/Problems-Solved/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -141,6 +143,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/avnee888/Problems-Solved/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/avnee888/Problems-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |
@@ -176,6 +179,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- |
 | [0090-subsets-ii](https://github.com/avnee888/Problems-Solved/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/avnee888/Problems-Solved/tree/master/0287-find-the-duplicate-number) |
+| [0645-set-mismatch](https://github.com/avnee888/Problems-Solved/tree/master/0645-set-mismatch) |
 ## Heap (Priority Queue)
 |  |
 | ------- |

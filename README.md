@@ -7,6 +7,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/avnee888/Problems-Solved/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/avnee888/Problems-Solved/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/avnee888/Problems-Solved/tree/master/0060-permutation-sequence) |
 | [0070-climbing-stairs](https://github.com/avnee888/Problems-Solved/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/avnee888/Problems-Solved/tree/master/0204-count-primes) |
@@ -49,6 +50,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avnee888/Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/avnee888/Problems-Solved/tree/master/0012-integer-to-roman) |
 | [0072-edit-distance](https://github.com/avnee888/Problems-Solved/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/avnee888/Problems-Solved/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/avnee888/Problems-Solved/tree/master/0125-valid-palindrome) |
@@ -123,6 +125,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avnee888/Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/avnee888/Problems-Solved/tree/master/0012-integer-to-roman) |
 | [0128-longest-consecutive-sequence](https://github.com/avnee888/Problems-Solved/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/avnee888/Problems-Solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |

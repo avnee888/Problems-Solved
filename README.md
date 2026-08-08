@@ -19,6 +19,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/avnee888/Problems-Solved/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avnee888/Problems-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/avnee888/Problems-Solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/avnee888/Problems-Solved/tree/master/0040-combination-sum-ii) |
@@ -51,6 +52,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avnee888/Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/avnee888/Problems-Solved/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/avnee888/Problems-Solved/tree/master/0014-longest-common-prefix) |
 | [0072-edit-distance](https://github.com/avnee888/Problems-Solved/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/avnee888/Problems-Solved/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/avnee888/Problems-Solved/tree/master/0125-valid-palindrome) |
@@ -240,4 +242,8 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/avnee888/Problems-Solved/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/avnee888/Problems-Solved/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

@@ -64,6 +64,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0205-isomorphic-strings](https://github.com/avnee888/Problems-Solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/avnee888/Problems-Solved/tree/master/0344-reverse-string) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/avnee888/Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/avnee888/Problems-Solved/tree/master/0988-smallest-string-starting-from-leaf) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/avnee888/Problems-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
@@ -138,6 +139,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0187-repeated-dna-sequences](https://github.com/avnee888/Problems-Solved/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/avnee888/Problems-Solved/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/avnee888/Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/avnee888/Problems-Solved/tree/master/0645-set-mismatch) |
 | [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -228,6 +230,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avnee888/Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0187-repeated-dna-sequences](https://github.com/avnee888/Problems-Solved/tree/master/0187-repeated-dna-sequences) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/avnee888/Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Enumeration
 |  |
 | ------- |

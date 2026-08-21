@@ -291,5 +291,6 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 ## Database
 |  |
 | ------- |
+| [0584-find-customer-referee](https://github.com/avnee888/Problems-Solved/tree/master/0584-find-customer-referee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/avnee888/Problems-Solved/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

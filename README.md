@@ -288,4 +288,8 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [1248-count-number-of-nice-subarrays](https://github.com/avnee888/Problems-Solved/tree/master/1248-count-number-of-nice-subarrays) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/avnee888/Problems-Solved/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->

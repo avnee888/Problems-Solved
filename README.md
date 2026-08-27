@@ -197,6 +197,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1845-seat-reservation-manager](https://github.com/avnee888/Problems-Solved/tree/master/1845-seat-reservation-manager) |
 ## Counting Sort
 |  |
 | ------- |
@@ -302,4 +303,8 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/avnee888/Problems-Solved/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
 | [1683-invalid-tweets](https://github.com/avnee888/Problems-Solved/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/avnee888/Problems-Solved/tree/master/1757-recyclable-and-low-fat-products) |
+## Design
+|  |
+| ------- |
+| [1845-seat-reservation-manager](https://github.com/avnee888/Problems-Solved/tree/master/1845-seat-reservation-manager) |
 <!---LeetCode Topics End-->

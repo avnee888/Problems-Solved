@@ -50,6 +50,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/avnee888/Problems-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/avnee888/Problems-Solved/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/avnee888/Problems-Solved/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [1993-operations-on-tree](https://github.com/avnee888/Problems-Solved/tree/master/1993-operations-on-tree) |
 | [2951-find-the-peaks](https://github.com/avnee888/Problems-Solved/tree/master/2951-find-the-peaks) |
 | [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |
 ## String
@@ -89,6 +90,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0695-max-area-of-island](https://github.com/avnee888/Problems-Solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/avnee888/Problems-Solved/tree/master/0733-flood-fill) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/avnee888/Problems-Solved/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1993-operations-on-tree](https://github.com/avnee888/Problems-Solved/tree/master/1993-operations-on-tree) |
 ## Matrix
 |  |
 | ------- |
@@ -105,6 +107,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0322-coin-change](https://github.com/avnee888/Problems-Solved/tree/master/0322-coin-change) |
 | [0695-max-area-of-island](https://github.com/avnee888/Problems-Solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/avnee888/Problems-Solved/tree/master/0733-flood-fill) |
+| [1993-operations-on-tree](https://github.com/avnee888/Problems-Solved/tree/master/1993-operations-on-tree) |
 ## Union-Find
 |  |
 | ------- |
@@ -116,6 +119,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/avnee888/Problems-Solved/tree/master/0988-smallest-string-starting-from-leaf) |
+| [1993-operations-on-tree](https://github.com/avnee888/Problems-Solved/tree/master/1993-operations-on-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -147,6 +151,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0438-find-all-anagrams-in-a-string](https://github.com/avnee888/Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0645-set-mismatch](https://github.com/avnee888/Problems-Solved/tree/master/0645-set-mismatch) |
 | [1248-count-number-of-nice-subarrays](https://github.com/avnee888/Problems-Solved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1993-operations-on-tree](https://github.com/avnee888/Problems-Solved/tree/master/1993-operations-on-tree) |
 | [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -307,4 +312,5 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [1845-seat-reservation-manager](https://github.com/avnee888/Problems-Solved/tree/master/1845-seat-reservation-manager) |
+| [1993-operations-on-tree](https://github.com/avnee888/Problems-Solved/tree/master/1993-operations-on-tree) |
 <!---LeetCode Topics End-->

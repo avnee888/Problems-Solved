@@ -153,6 +153,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/avnee888/Problems-Solved/tree/master/0645-set-mismatch) |
 | [1248-count-number-of-nice-subarrays](https://github.com/avnee888/Problems-Solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1993-operations-on-tree](https://github.com/avnee888/Problems-Solved/tree/master/1993-operations-on-tree) |
+| [2336-smallest-number-in-infinite-set](https://github.com/avnee888/Problems-Solved/tree/master/2336-smallest-number-in-infinite-set) |
 | [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -205,6 +206,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1845-seat-reservation-manager](https://github.com/avnee888/Problems-Solved/tree/master/1845-seat-reservation-manager) |
+| [2336-smallest-number-in-infinite-set](https://github.com/avnee888/Problems-Solved/tree/master/2336-smallest-number-in-infinite-set) |
 ## Counting Sort
 |  |
 | ------- |
@@ -316,4 +318,9 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [1845-seat-reservation-manager](https://github.com/avnee888/Problems-Solved/tree/master/1845-seat-reservation-manager) |
 | [1993-operations-on-tree](https://github.com/avnee888/Problems-Solved/tree/master/1993-operations-on-tree) |
 | [2241-design-an-atm-machine](https://github.com/avnee888/Problems-Solved/tree/master/2241-design-an-atm-machine) |
+| [2336-smallest-number-in-infinite-set](https://github.com/avnee888/Problems-Solved/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/avnee888/Problems-Solved/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->

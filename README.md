@@ -51,6 +51,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/avnee888/Problems-Solved/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/avnee888/Problems-Solved/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
 | [1993-operations-on-tree](https://github.com/avnee888/Problems-Solved/tree/master/1993-operations-on-tree) |
+| [2241-design-an-atm-machine](https://github.com/avnee888/Problems-Solved/tree/master/2241-design-an-atm-machine) |
 | [2951-find-the-peaks](https://github.com/avnee888/Problems-Solved/tree/master/2951-find-the-peaks) |
 | [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |
 ## String
@@ -191,6 +192,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/avnee888/Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
+| [2241-design-an-atm-machine](https://github.com/avnee888/Problems-Solved/tree/master/2241-design-an-atm-machine) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -313,4 +315,5 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- |
 | [1845-seat-reservation-manager](https://github.com/avnee888/Problems-Solved/tree/master/1845-seat-reservation-manager) |
 | [1993-operations-on-tree](https://github.com/avnee888/Problems-Solved/tree/master/1993-operations-on-tree) |
+| [2241-design-an-atm-machine](https://github.com/avnee888/Problems-Solved/tree/master/2241-design-an-atm-machine) |
 <!---LeetCode Topics End-->

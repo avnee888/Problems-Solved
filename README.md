@@ -88,6 +88,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0079-word-search](https://github.com/avnee888/Problems-Solved/tree/master/0079-word-search) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0200-number-of-islands](https://github.com/avnee888/Problems-Solved/tree/master/0200-number-of-islands) |
+| [0538-convert-bst-to-greater-tree](https://github.com/avnee888/Problems-Solved/tree/master/0538-convert-bst-to-greater-tree) |
 | [0695-max-area-of-island](https://github.com/avnee888/Problems-Solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/avnee888/Problems-Solved/tree/master/0733-flood-fill) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/avnee888/Problems-Solved/tree/master/0988-smallest-string-starting-from-leaf) |
@@ -119,12 +120,14 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0538-convert-bst-to-greater-tree](https://github.com/avnee888/Problems-Solved/tree/master/0538-convert-bst-to-greater-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/avnee888/Problems-Solved/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1993-operations-on-tree](https://github.com/avnee888/Problems-Solved/tree/master/1993-operations-on-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0129-sum-root-to-leaf-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0129-sum-root-to-leaf-numbers) |
+| [0538-convert-bst-to-greater-tree](https://github.com/avnee888/Problems-Solved/tree/master/0538-convert-bst-to-greater-tree) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/avnee888/Problems-Solved/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Dynamic Programming
 |  |
@@ -323,4 +326,8 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [2336-smallest-number-in-infinite-set](https://github.com/avnee888/Problems-Solved/tree/master/2336-smallest-number-in-infinite-set) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0538-convert-bst-to-greater-tree](https://github.com/avnee888/Problems-Solved/tree/master/0538-convert-bst-to-greater-tree) |
 <!---LeetCode Topics End-->

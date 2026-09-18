@@ -332,4 +332,8 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0538-convert-bst-to-greater-tree](https://github.com/avnee888/Problems-Solved/tree/master/0538-convert-bst-to-greater-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [1791-find-center-of-star-graph](https://github.com/avnee888/Problems-Solved/tree/master/1791-find-center-of-star-graph) |
 <!---LeetCode Topics End-->

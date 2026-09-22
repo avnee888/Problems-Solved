@@ -46,6 +46,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0733-flood-fill](https://github.com/avnee888/Problems-Solved/tree/master/0733-flood-fill) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/avnee888/Problems-Solved/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0931-minimum-falling-path-sum](https://github.com/avnee888/Problems-Solved/tree/master/0931-minimum-falling-path-sum) |
+| [1046-last-stone-weight](https://github.com/avnee888/Problems-Solved/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/avnee888/Problems-Solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/avnee888/Problems-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -209,6 +210,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1046-last-stone-weight](https://github.com/avnee888/Problems-Solved/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1845-seat-reservation-manager](https://github.com/avnee888/Problems-Solved/tree/master/1845-seat-reservation-manager) |
 | [2336-smallest-number-in-infinite-set](https://github.com/avnee888/Problems-Solved/tree/master/2336-smallest-number-in-infinite-set) |

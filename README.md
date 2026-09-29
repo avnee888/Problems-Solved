@@ -36,6 +36,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0198-house-robber](https://github.com/avnee888/Problems-Solved/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/avnee888/Problems-Solved/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/avnee888/Problems-Solved/tree/master/0204-count-primes) |
+| [0221-maximal-square](https://github.com/avnee888/Problems-Solved/tree/master/0221-maximal-square) |
 | [0287-find-the-duplicate-number](https://github.com/avnee888/Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/avnee888/Problems-Solved/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/avnee888/Problems-Solved/tree/master/0347-top-k-frequent-elements) |
@@ -102,6 +103,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- |
 | [0079-word-search](https://github.com/avnee888/Problems-Solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/avnee888/Problems-Solved/tree/master/0200-number-of-islands) |
+| [0221-maximal-square](https://github.com/avnee888/Problems-Solved/tree/master/0221-maximal-square) |
 | [0695-max-area-of-island](https://github.com/avnee888/Problems-Solved/tree/master/0695-max-area-of-island) |
 | [0733-flood-fill](https://github.com/avnee888/Problems-Solved/tree/master/0733-flood-fill) |
 | [0931-minimum-falling-path-sum](https://github.com/avnee888/Problems-Solved/tree/master/0931-minimum-falling-path-sum) |
@@ -141,6 +143,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0072-edit-distance](https://github.com/avnee888/Problems-Solved/tree/master/0072-edit-distance) |
 | [0131-palindrome-partitioning](https://github.com/avnee888/Problems-Solved/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/avnee888/Problems-Solved/tree/master/0198-house-robber) |
+| [0221-maximal-square](https://github.com/avnee888/Problems-Solved/tree/master/0221-maximal-square) |
 | [0279-perfect-squares](https://github.com/avnee888/Problems-Solved/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/avnee888/Problems-Solved/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/avnee888/Problems-Solved/tree/master/0357-count-numbers-with-unique-digits) |

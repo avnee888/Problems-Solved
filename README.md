@@ -77,6 +77,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0988-smallest-string-starting-from-leaf](https://github.com/avnee888/Problems-Solved/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/avnee888/Problems-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avnee888/Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/avnee888/Problems-Solved/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/avnee888/Problems-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
 |  |
@@ -193,6 +194,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/avnee888/Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/avnee888/Problems-Solved/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/avnee888/Problems-Solved/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Stack
 |  |
 | ------- |
@@ -213,6 +215,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/avnee888/Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 | [2241-design-an-atm-machine](https://github.com/avnee888/Problems-Solved/tree/master/2241-design-an-atm-machine) |
+| [2697-lexicographically-smallest-palindrome](https://github.com/avnee888/Problems-Solved/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Bit Manipulation
 |  |
 | ------- |

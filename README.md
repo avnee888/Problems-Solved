@@ -65,6 +65,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0003-longest-substring-without-repeating-characters](https://github.com/avnee888/Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/avnee888/Problems-Solved/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/avnee888/Problems-Solved/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/avnee888/Problems-Solved/tree/master/0020-valid-parentheses) |
 | [0072-edit-distance](https://github.com/avnee888/Problems-Solved/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/avnee888/Problems-Solved/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/avnee888/Problems-Solved/tree/master/0125-valid-palindrome) |
@@ -198,6 +199,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/avnee888/Problems-Solved/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/avnee888/Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/avnee888/Problems-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avnee888/Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -371,6 +373,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/avnee888/Problems-Solved/tree/master/0020-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/avnee888/Problems-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avnee888/Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avnee888/Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

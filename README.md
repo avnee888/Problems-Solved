@@ -75,6 +75,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/avnee888/Problems-Solved/tree/master/0344-reverse-string) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/avnee888/Problems-Solved/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/avnee888/Problems-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/avnee888/Problems-Solved/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/avnee888/Problems-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avnee888/Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -201,6 +202,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/avnee888/Problems-Solved/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/avnee888/Problems-Solved/tree/master/0042-trapping-rain-water) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/avnee888/Problems-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/avnee888/Problems-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avnee888/Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -216,6 +218,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/avnee888/Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/avnee888/Problems-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2241-design-an-atm-machine](https://github.com/avnee888/Problems-Solved/tree/master/2241-design-an-atm-machine) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/avnee888/Problems-Solved/tree/master/2697-lexicographically-smallest-palindrome) |
 ## Bit Manipulation
@@ -374,6 +377,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/avnee888/Problems-Solved/tree/master/0020-valid-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/avnee888/Problems-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/avnee888/Problems-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avnee888/Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avnee888/Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |

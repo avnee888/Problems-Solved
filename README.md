@@ -58,6 +58,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [2241-design-an-atm-machine](https://github.com/avnee888/Problems-Solved/tree/master/2241-design-an-atm-machine) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avnee888/Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2951-find-the-peaks](https://github.com/avnee888/Problems-Solved/tree/master/2951-find-the-peaks) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/avnee888/Problems-Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -184,6 +185,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0645-set-mismatch](https://github.com/avnee888/Problems-Solved/tree/master/0645-set-mismatch) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/avnee888/Problems-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/avnee888/Problems-Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
@@ -221,6 +223,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avnee888/Problems-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2241-design-an-atm-machine](https://github.com/avnee888/Problems-Solved/tree/master/2241-design-an-atm-machine) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/avnee888/Problems-Solved/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/avnee888/Problems-Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |
 | ------- |

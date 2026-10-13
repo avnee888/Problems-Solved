@@ -50,6 +50,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0931-minimum-falling-path-sum](https://github.com/avnee888/Problems-Solved/tree/master/0931-minimum-falling-path-sum) |
 | [1046-last-stone-weight](https://github.com/avnee888/Problems-Solved/tree/master/1046-last-stone-weight) |
 | [1248-count-number-of-nice-subarrays](https://github.com/avnee888/Problems-Solved/tree/master/1248-count-number-of-nice-subarrays) |
+| [1402-reducing-dishes](https://github.com/avnee888/Problems-Solved/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/avnee888/Problems-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/avnee888/Problems-Solved/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -155,6 +156,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0322-coin-change](https://github.com/avnee888/Problems-Solved/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/avnee888/Problems-Solved/tree/master/0357-count-numbers-with-unique-digits) |
 | [0931-minimum-falling-path-sum](https://github.com/avnee888/Problems-Solved/tree/master/0931-minimum-falling-path-sum) |
+| [1402-reducing-dishes](https://github.com/avnee888/Problems-Solved/tree/master/1402-reducing-dishes) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/avnee888/Problems-Solved/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avnee888/Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Hash Table
@@ -183,6 +185,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/avnee888/Problems-Solved/tree/master/0645-set-mismatch) |
+| [1402-reducing-dishes](https://github.com/avnee888/Problems-Solved/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/avnee888/Problems-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/avnee888/Problems-Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -221,6 +224,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/avnee888/Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avnee888/Problems-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1402-reducing-dishes](https://github.com/avnee888/Problems-Solved/tree/master/1402-reducing-dishes) |
 | [2241-design-an-atm-machine](https://github.com/avnee888/Problems-Solved/tree/master/2241-design-an-atm-machine) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/avnee888/Problems-Solved/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/avnee888/Problems-Solved/tree/master/3727-maximum-alternating-sum-of-squares) |

@@ -16,6 +16,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0628-maximum-product-of-three-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/avnee888/Problems-Solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/avnee888/Problems-Solved/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/avnee888/Problems-Solved/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/avnee888/Problems-Solved/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
 |  |
@@ -227,6 +228,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [1402-reducing-dishes](https://github.com/avnee888/Problems-Solved/tree/master/1402-reducing-dishes) |
 | [2241-design-an-atm-machine](https://github.com/avnee888/Problems-Solved/tree/master/2241-design-an-atm-machine) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/avnee888/Problems-Solved/tree/master/2697-lexicographically-smallest-palindrome) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/avnee888/Problems-Solved/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/avnee888/Problems-Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Bit Manipulation
 |  |

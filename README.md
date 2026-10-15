@@ -83,6 +83,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0988-smallest-string-starting-from-leaf](https://github.com/avnee888/Problems-Solved/tree/master/0988-smallest-string-starting-from-leaf) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/avnee888/Problems-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avnee888/Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/avnee888/Problems-Solved/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/avnee888/Problems-Solved/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/avnee888/Problems-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Backtracking
@@ -161,6 +162,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [1402-reducing-dishes](https://github.com/avnee888/Problems-Solved/tree/master/1402-reducing-dishes) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/avnee888/Problems-Solved/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avnee888/Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/avnee888/Problems-Solved/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -213,6 +215,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avnee888/Problems-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/avnee888/Problems-Solved/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/avnee888/Problems-Solved/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/avnee888/Problems-Solved/tree/master/2645-minimum-additions-to-make-valid-string) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -229,6 +232,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avnee888/Problems-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1402-reducing-dishes](https://github.com/avnee888/Problems-Solved/tree/master/1402-reducing-dishes) |
 | [2241-design-an-atm-machine](https://github.com/avnee888/Problems-Solved/tree/master/2241-design-an-atm-machine) |
+| [2645-minimum-additions-to-make-valid-string](https://github.com/avnee888/Problems-Solved/tree/master/2645-minimum-additions-to-make-valid-string) |
 | [2697-lexicographically-smallest-palindrome](https://github.com/avnee888/Problems-Solved/tree/master/2697-lexicographically-smallest-palindrome) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/avnee888/Problems-Solved/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/avnee888/Problems-Solved/tree/master/3727-maximum-alternating-sum-of-squares) |

@@ -61,6 +61,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avnee888/Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/avnee888/Problems-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2951-find-the-peaks](https://github.com/avnee888/Problems-Solved/tree/master/2951-find-the-peaks) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/avnee888/Problems-Solved/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/avnee888/Problems-Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |
 ## String
@@ -180,6 +181,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [1993-operations-on-tree](https://github.com/avnee888/Problems-Solved/tree/master/1993-operations-on-tree) |
 | [2336-smallest-number-in-infinite-set](https://github.com/avnee888/Problems-Solved/tree/master/2336-smallest-number-in-infinite-set) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/avnee888/Problems-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/avnee888/Problems-Solved/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |
 ## Sorting
 |  |
@@ -193,6 +195,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [1402-reducing-dishes](https://github.com/avnee888/Problems-Solved/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/avnee888/Problems-Solved/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/avnee888/Problems-Solved/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/avnee888/Problems-Solved/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/avnee888/Problems-Solved/tree/master/3731-find-missing-elements) |
 ## Two Pointers

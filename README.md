@@ -69,6 +69,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/avnee888/Problems-Solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/avnee888/Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/avnee888/Problems-Solved/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/avnee888/Problems-Solved/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/avnee888/Problems-Solved/tree/master/0020-valid-parentheses) |
@@ -151,6 +152,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/avnee888/Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/avnee888/Problems-Solved/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/avnee888/Problems-Solved/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/avnee888/Problems-Solved/tree/master/0072-edit-distance) |
@@ -202,6 +204,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/avnee888/Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/avnee888/Problems-Solved/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/avnee888/Problems-Solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/avnee888/Problems-Solved/tree/master/0031-next-permutation) |
@@ -409,4 +412,8 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/avnee888/Problems-Solved/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/avnee888/Problems-Solved/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->

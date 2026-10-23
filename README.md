@@ -43,6 +43,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/avnee888/Problems-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/avnee888/Problems-Solved/tree/master/0485-max-consecutive-ones) |
+| [0506-relative-ranks](https://github.com/avnee888/Problems-Solved/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/avnee888/Problems-Solved/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/avnee888/Problems-Solved/tree/master/0645-set-mismatch) |
@@ -195,6 +196,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/avnee888/Problems-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/avnee888/Problems-Solved/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/avnee888/Problems-Solved/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/avnee888/Problems-Solved/tree/master/0645-set-mismatch) |
@@ -258,6 +260,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/avnee888/Problems-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/avnee888/Problems-Solved/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/avnee888/Problems-Solved/tree/master/0621-task-scheduler) |
 | [1046-last-stone-weight](https://github.com/avnee888/Problems-Solved/tree/master/1046-last-stone-weight) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |

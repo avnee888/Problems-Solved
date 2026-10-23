@@ -41,6 +41,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0287-find-the-duplicate-number](https://github.com/avnee888/Problems-Solved/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/avnee888/Problems-Solved/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/avnee888/Problems-Solved/tree/master/0347-top-k-frequent-elements) |
+| [0376-wiggle-subsequence](https://github.com/avnee888/Problems-Solved/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/avnee888/Problems-Solved/tree/master/0485-max-consecutive-ones) |
 | [0506-relative-ranks](https://github.com/avnee888/Problems-Solved/tree/master/0506-relative-ranks) |
@@ -164,6 +165,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0279-perfect-squares](https://github.com/avnee888/Problems-Solved/tree/master/0279-perfect-squares) |
 | [0322-coin-change](https://github.com/avnee888/Problems-Solved/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/avnee888/Problems-Solved/tree/master/0357-count-numbers-with-unique-digits) |
+| [0376-wiggle-subsequence](https://github.com/avnee888/Problems-Solved/tree/master/0376-wiggle-subsequence) |
 | [0931-minimum-falling-path-sum](https://github.com/avnee888/Problems-Solved/tree/master/0931-minimum-falling-path-sum) |
 | [1402-reducing-dishes](https://github.com/avnee888/Problems-Solved/tree/master/1402-reducing-dishes) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/avnee888/Problems-Solved/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -240,6 +242,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/avnee888/Problems-Solved/tree/master/0011-container-with-most-water) |
+| [0376-wiggle-subsequence](https://github.com/avnee888/Problems-Solved/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 | [0621-task-scheduler](https://github.com/avnee888/Problems-Solved/tree/master/0621-task-scheduler) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/avnee888/Problems-Solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |

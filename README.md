@@ -58,6 +58,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [1248-count-number-of-nice-subarrays](https://github.com/avnee888/Problems-Solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1402-reducing-dishes](https://github.com/avnee888/Problems-Solved/tree/master/1402-reducing-dishes) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/avnee888/Problems-Solved/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/avnee888/Problems-Solved/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/avnee888/Problems-Solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/avnee888/Problems-Solved/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/avnee888/Problems-Solved/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
@@ -176,6 +177,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0494-target-sum](https://github.com/avnee888/Problems-Solved/tree/master/0494-target-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/avnee888/Problems-Solved/tree/master/0931-minimum-falling-path-sum) |
 | [1402-reducing-dishes](https://github.com/avnee888/Problems-Solved/tree/master/1402-reducing-dishes) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/avnee888/Problems-Solved/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/avnee888/Problems-Solved/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/avnee888/Problems-Solved/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2645-minimum-additions-to-make-valid-string](https://github.com/avnee888/Problems-Solved/tree/master/2645-minimum-additions-to-make-valid-string) |

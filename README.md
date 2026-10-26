@@ -44,6 +44,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0376-wiggle-subsequence](https://github.com/avnee888/Problems-Solved/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/avnee888/Problems-Solved/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/avnee888/Problems-Solved/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/avnee888/Problems-Solved/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/avnee888/Problems-Solved/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0628-maximum-product-of-three-numbers) |
@@ -102,6 +103,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0090-subsets-ii](https://github.com/avnee888/Problems-Solved/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/avnee888/Problems-Solved/tree/master/0131-palindrome-partitioning) |
 | [0357-count-numbers-with-unique-digits](https://github.com/avnee888/Problems-Solved/tree/master/0357-count-numbers-with-unique-digits) |
+| [0494-target-sum](https://github.com/avnee888/Problems-Solved/tree/master/0494-target-sum) |
 | [0988-smallest-string-starting-from-leaf](https://github.com/avnee888/Problems-Solved/tree/master/0988-smallest-string-starting-from-leaf) |
 ## Depth-First Search
 |  |
@@ -166,6 +168,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0322-coin-change](https://github.com/avnee888/Problems-Solved/tree/master/0322-coin-change) |
 | [0357-count-numbers-with-unique-digits](https://github.com/avnee888/Problems-Solved/tree/master/0357-count-numbers-with-unique-digits) |
 | [0376-wiggle-subsequence](https://github.com/avnee888/Problems-Solved/tree/master/0376-wiggle-subsequence) |
+| [0494-target-sum](https://github.com/avnee888/Problems-Solved/tree/master/0494-target-sum) |
 | [0931-minimum-falling-path-sum](https://github.com/avnee888/Problems-Solved/tree/master/0931-minimum-falling-path-sum) |
 | [1402-reducing-dishes](https://github.com/avnee888/Problems-Solved/tree/master/1402-reducing-dishes) |
 | [1770-maximum-score-from-performing-multiplication-operations](https://github.com/avnee888/Problems-Solved/tree/master/1770-maximum-score-from-performing-multiplication-operations) |
@@ -287,6 +290,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/avnee888/Problems-Solved/tree/master/0279-perfect-squares) |
+| [0494-target-sum](https://github.com/avnee888/Problems-Solved/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
@@ -428,4 +432,8 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/avnee888/Problems-Solved/tree/master/0005-longest-palindromic-substring) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/avnee888/Problems-Solved/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->

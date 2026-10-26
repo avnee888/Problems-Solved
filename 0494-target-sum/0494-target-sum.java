@@ -1,7 +1,7 @@
 class Solution {
     int count=0;
     public int findTargetSumWays(int[] nums, int target) {
-        count=0;
+      
        solve(0,target,nums,0);
         
        return count;

@@ -9,7 +9,6 @@ class Solution {
         return ans;
     }
     public int solve(int[] coins,int amount,int[] dp){
-        //base case
         if(amount==0){
             return 0;
         }

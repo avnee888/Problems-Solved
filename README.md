@@ -297,11 +297,13 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/avnee888/Problems-Solved/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/avnee888/Problems-Solved/tree/master/0322-coin-change) |
 | [0494-target-sum](https://github.com/avnee888/Problems-Solved/tree/master/0494-target-sum) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0279-perfect-squares](https://github.com/avnee888/Problems-Solved/tree/master/0279-perfect-squares) |
+| [0322-coin-change](https://github.com/avnee888/Problems-Solved/tree/master/0322-coin-change) |
 ## Binary Search
 |  |
 | ------- |

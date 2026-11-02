@@ -13,6 +13,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0204-count-primes](https://github.com/avnee888/Problems-Solved/tree/master/0204-count-primes) |
 | [0279-perfect-squares](https://github.com/avnee888/Problems-Solved/tree/master/0279-perfect-squares) |
 | [0357-count-numbers-with-unique-digits](https://github.com/avnee888/Problems-Solved/tree/master/0357-count-numbers-with-unique-digits) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/avnee888/Problems-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0628-maximum-product-of-three-numbers) |
 | [1248-count-number-of-nice-subarrays](https://github.com/avnee888/Problems-Solved/tree/master/1248-count-number-of-nice-subarrays) |
 | [1806-minimum-number-of-operations-to-reinitialize-a-permutation](https://github.com/avnee888/Problems-Solved/tree/master/1806-minimum-number-of-operations-to-reinitialize-a-permutation) |
@@ -43,6 +44,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/avnee888/Problems-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0376-wiggle-subsequence](https://github.com/avnee888/Problems-Solved/tree/master/0376-wiggle-subsequence) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/avnee888/Problems-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/avnee888/Problems-Solved/tree/master/0485-max-consecutive-ones) |
 | [0494-target-sum](https://github.com/avnee888/Problems-Solved/tree/master/0494-target-sum) |
 | [0506-relative-ranks](https://github.com/avnee888/Problems-Solved/tree/master/0506-relative-ranks) |
@@ -208,6 +210,7 @@ Collection of LeetCode / GFG / Hackerrank questions to ace the coding interview!
 | [0242-valid-anagram](https://github.com/avnee888/Problems-Solved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/avnee888/Problems-Solved/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/avnee888/Problems-Solved/tree/master/0455-assign-cookies) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/avnee888/Problems-Solved/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0506-relative-ranks](https://github.com/avnee888/Problems-Solved/tree/master/0506-relative-ranks) |
 | [0621-task-scheduler](https://github.com/avnee888/Problems-Solved/tree/master/0621-task-scheduler) |
 | [0628-maximum-product-of-three-numbers](https://github.com/avnee888/Problems-Solved/tree/master/0628-maximum-product-of-three-numbers) |
